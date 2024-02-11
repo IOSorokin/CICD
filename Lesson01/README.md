@@ -1,9 +1,12 @@
 # 1    Создайте задачу с типом bug, попытайтесь провести его по всему workflow до Done.
 Создал задачу с типом bug
 
-![изображение](https://github.com/IOSorokin/CICD/assets/148979909/9e06b034-1e83-491e-9358-a3af00db8e2c)
+![изображение](https://github.com/IOSorokin/CICD/assets/148979909/72d4791b-f799-4f10-9fc8-d6155b148c3b)
 
+Провел ее по всему workflow до Done
 
+Результаты в файле 
+KAN-6 Bug.xml
 
 
 # 2    Создайте задачу с типом epic, к ней привяжите несколько задач с типом task, проведите их по всему workflow до Done.
