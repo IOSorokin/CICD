@@ -1,5 +1,5 @@
 ## 1.    Создайте новый проект в teamcity на основе fork.
-    ![изображение](https://github.com/IOSorokin/CICD/assets/148979909/d06814c6-31cc-4c9b-8435-fb219a3f6bd1)
+   ![изображение](https://github.com/IOSorokin/CICD/assets/148979909/d06814c6-31cc-4c9b-8435-fb219a3f6bd1)
 
 ## 2.    Сделайте autodetect конфигурации.
   Определилась конфигурация maven 
